@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm <a href="https://github.com/cH0NKIIs34L">ChonkySeal</a></h2>
+<h2 align="center">👋 Hi, I'm Sta. Ana, Matthew E.</h2>
 
 <p align="center">
   💻 IT Student &nbsp;•&nbsp; 🌐 Full-Stack Developer &nbsp;•&nbsp; 🧠 Systems-Based Learner
@@ -19,16 +19,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:MatimotTheTimoters@gmail.com">
+  <a href="mailto:staana.matthew.escandor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/ChonkySeal0295/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MatimotTheTimoters">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/matthew-sta-ana-b07058288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
